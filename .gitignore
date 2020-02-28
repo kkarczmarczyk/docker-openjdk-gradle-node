@@ -1,0 +1,13 @@
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+.DS_Store
+
+/*.tar.gz
+/tmp
+
+data/
+.npmrc
